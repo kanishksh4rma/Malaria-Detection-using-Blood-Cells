@@ -1,4 +1,4 @@
-# Brain_Tumour_detection_using_MRI_Scans
+#  Malaria-Detection-using-Blood-Cells 
 ---
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
