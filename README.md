@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans">
-    <img src="images/logo.jpg" alt="Logo" width="300" height="300">
+    <img src="images/logo.jpg" alt="Logo" >
   </a>
   <!-- INTRODUCTION -->
 
