@@ -10,7 +10,9 @@
     <img src="images/logo.jpg" alt="Logo" >
   </a>
   <!-- INTRODUCTION -->
+
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 <a href="https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans">
     <img src="images/mini-logo.png" width="80" height="80">
