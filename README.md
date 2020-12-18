@@ -10,25 +10,15 @@
     <img src="images/logo.jpg" alt="Logo" >
   </a>
   <!-- INTRODUCTION -->
-
-## Objective
-  
-Brain tumors are the consequence of abnormal growths and uncontrolled cells division in the brain. They can lead to death if they are not detected early and accurately. Some types of brain tumor such as Meningioma, Glioma, and Pituitary tumors are more common than the others.
-
-In this project, I designed & built an automatic brain tumor segmentation technique based on Convolutional Neural Network. We have used three MRI views of human brain. MRI scan is used because it is less harmful and more accurate than CT brain scan.
-  
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 <a href="https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans">
     <img src="images/mini-logo.png" width="80" height="80">
   </a>
 
-Brain tumors are the consequence of abnormal growths and uncontrolled cells division in the brain. They can lead to death if they are not detected early and accurately. Some types of brain tumor such as Meningioma, Glioma, and Pituitary tumors are more common than the others.
+Malaria is the deadliest disease in the earth and big hectic work for the health department. The traditional way of diagnosing malaria is by schematic examining blood smears of human beings for parasite-infected red blood cells under the microscope by lab or qualified technicians. This process is inefficient and the diagnosis depends on the experience and well knowledgeable person needed for the diagnosis. 
 
-In this project, I designed & built an automatic brain tumor segmentation technique based on Convolutional Neural Network. We have used three MRI views of human brain. MRI scan is used because it is less harmful and more accurate than CT brain scan.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+In this project, I have designed & developed a deep learning model based on a convolutional neural network (CNN) which automatically classifies and predicts infected cells in thin blood smears on standard microscope slides. A ten-fold cross-validation layer of the convolutional neural network on 27,558 single-cell images is used to understand the parameter of the cell.
 
 ---
 
@@ -40,64 +30,40 @@ A list of commonly used resources that I find helpful are listed in the acknowle
   * matplotlib
   * keras
   * sklearn
-  
 ```
 ---
 
 ## Algorithms Used
 
-> * VGG16 (Transfer Learning in Deep Learning)
+> * ResNet50
+> * DenseNet201 (Transfer Learning in Deep Learning)
+> * VGG16
 
 ---
 ## Directory Structure
 
 ```sh
-├── Coronavirus_Detection_using_Chest_X_ray.ipynb
-├── LICENSE
-├── README.md
-└── screenshots
-    ├── acc.png
-    ├── accuracy.png
-    ├── classification_report.png
-    ├── demo.png
-    ├── loss.png
-    ├── specs.png
-    └── test_predict_plots.png
+├── images
+│   ├── logo.jpg
+│   └── mini-logo.png
+├── Malaria_Parasite__Detection_using_Blood_cell.ipynb
+├── malaria_parasite__detection_using_blood_cell.py
+└── README.md
+
 ```
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-Create a virtualenv. (optional)
-  ```sh
-  python3 -m venv braintumour
-  source braintumour/bin/activate
-  ```
+This is an example of how you may set up this project locally.
+To get a local copy up and running follow these simple steps.
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans/
+   git clone https://github.com/kanishksh4rma/Malaria-Detection-using-Blood-Cells.git
    ```
-2. Install required libraries
-   ```sh
-   pip install -r requirements.txt
-   ```
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Now run the app.py file by typing following command 
-```sh
-   python app.py
-   ```
-_For more examples, please refer to the [Documentation](#)_
-
-
+2. Upload it on google colab and start using :)
 
 ## About Contribution :
 * Raise the `issue` .
@@ -120,5 +86,5 @@ See [LICENSE](LICENSE) file.
 
 ---
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Malaria-Detection-using-Blood-Cells)
 
